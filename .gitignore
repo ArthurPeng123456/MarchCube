@@ -1,0 +1,6 @@
+**/*.o
+build/
+main_march
+main_march.exe
+**/*.ply
+**/*.txt
